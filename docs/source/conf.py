@@ -7,7 +7,7 @@ copyright = '2021, Graziella'
 author = 'Graziella'
 
 release = '1.0'
-version = '1.0.1'
+version = '1.0.2'
 
 # -- General configuration
 
