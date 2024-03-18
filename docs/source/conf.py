@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'WSDR'
+copyright = '2024, Wavelet labs'
+author = 'Wavelet labs'
 
 release = '1.0'
-version = '1.0.3'
+version = '1.0.4'
 
 # -- General configuration
 
