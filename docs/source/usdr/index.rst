@@ -20,4 +20,4 @@ Contents
 
 .. toctree::
 
-   usdr/xyz
+   xyz
