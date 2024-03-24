@@ -1,7 +1,20 @@
-USDR!!! This is a test file for the Lumache project.
+Welcome to Lumache's documentation!
 ===================================
 
-1.0.3
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Getting started
+
+   /usage
+   /api
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Usdr utility
+
+   /usdr/index
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -15,9 +28,4 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
---------
 
-.. toctree::
-
-   xyz
