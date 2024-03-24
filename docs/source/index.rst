@@ -22,4 +22,4 @@ Contents
 
    usage
    api
-   usdr
+   usdr/index
